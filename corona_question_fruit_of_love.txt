@@ -1,0 +1,5 @@
+1.What are bundles in Fruit of love?
+2. 
+I see in the Packages table that there is a packages type property. So package and bundles them related to each other?
+3. 
+I see the database does not contain information of bundles? So where do bundles come from?
